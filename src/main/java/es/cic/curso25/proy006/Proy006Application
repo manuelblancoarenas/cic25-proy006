@@ -1,0 +1,16 @@
+package es.cic.curso25.proy006;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+// import org.springframework.context.annotation.ComponentScan;
+
+@SpringBootApplication
+// @ComponentScan("es.cic.curso25.proyect006") //le digo: quiero que los componentes (RestController, Service y Respoitories) me
+                                            //los busques en esta ruta
+public class Proy006Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Proy005Application.class, args);
+	}
+
+}

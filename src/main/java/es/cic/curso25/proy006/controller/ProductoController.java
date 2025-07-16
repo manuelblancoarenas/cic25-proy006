@@ -1,6 +1,8 @@
-package es.cic.curso25.proy006;
+package es.cic.curso25.proy006.controller;
 
 import org.springframework.web.bind.annotation.RestController;
+
+import es.cic.curso25.proy006.model.Producto;
 
 import java.util.ArrayList;
 import java.util.List;
