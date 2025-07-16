@@ -1,4 +1,4 @@
-package es.cic._5.proy006;
+package es.cic.curso25.proy006;
 
 import org.springframework.web.bind.annotation.RestController;
 

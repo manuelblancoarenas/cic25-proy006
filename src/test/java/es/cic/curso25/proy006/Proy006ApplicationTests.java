@@ -1,4 +1,4 @@
-package es.cic._5.proy006;
+package es.cic.curso25.proy006;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

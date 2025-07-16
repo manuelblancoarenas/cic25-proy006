@@ -8,7 +8,7 @@
 		<version>3.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>es.cic.25</groupId>
+	<groupId>es.cic.curso25</groupId>
 	<artifactId>proy006</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>proy006</name>
